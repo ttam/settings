@@ -1,0 +1,313 @@
+<code_scheme name="Default copy" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+    <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+  </CssCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="INDENT_CHAINED_CALLS" value="false" />
+  </JSCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
+    <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
+    <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
+    <option name="LOWER_CASE_NULL_CONST" value="true" />
+    <option name="ELSE_IF_STYLE" value="COMBINE" />
+    <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
+    <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
+    <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
+    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+    <option name="PHPDOC_USE_FQCN" value="true" />
+  </PHPCodeStyleSettings>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
+    <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_WRAP" value="5" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="5" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+    <option name="IF_BRACE_FORCE" value="3" />
+    <option name="DOWHILE_BRACE_FORCE" value="3" />
+    <option name="WHILE_BRACE_FORCE" value="3" />
+    <option name="FOR_BRACE_FORCE" value="3" />
+    <arrangement>
+      <groups />
+      <rules>
+        <section>
+          <rule>
+            <match>
+              <CONST>true</CONST>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FIELD>true</FIELD>
+                <PUBLIC>true</PUBLIC>
+                <STATIC>true</STATIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FIELD>true</FIELD>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FIELD>true</FIELD>
+                <PROTECTED>true</PROTECTED>
+                <STATIC>true</STATIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FIELD>true</FIELD>
+                <PROTECTED>true</PROTECTED>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FIELD>true</FIELD>
+                <PRIVATE>true</PRIVATE>
+                <STATIC>true</STATIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FIELD>true</FIELD>
+                <PRIVATE>true</PRIVATE>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <CONSTRUCTOR>true</CONSTRUCTOR>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <NAME>__destruct</NAME>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <NAME>__*</NAME>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <ABSTRACT>true</ABSTRACT>
+                <METHOD>true</METHOD>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <PUBLIC>true</PUBLIC>
+                <STATIC>true</STATIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <ABSTRACT>true</ABSTRACT>
+                <METHOD>true</METHOD>
+                <PROTECTED>true</PROTECTED>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <PROTECTED>true</PROTECTED>
+                <STATIC>true</STATIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <PROTECTED>true</PROTECTED>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FINAL>true</FINAL>
+                <METHOD>true</METHOD>
+                <PROTECTED>true</PROTECTED>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <PRIVATE>true</PRIVATE>
+                <STATIC>true</STATIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <PRIVATE>true</PRIVATE>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <FINAL>true</FINAL>
+                <METHOD>true</METHOD>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <TRAIT>true</TRAIT>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <INTERFACE>true</INTERFACE>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <CLASS>true</CLASS>
+            </match>
+          </rule>
+        </section>
+      </rules>
+    </arrangement>
+  </codeStyleSettings>
+</code_scheme>

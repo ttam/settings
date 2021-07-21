@@ -1,0 +1,20 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="Console.TableResult.Reload" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="Refresh" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta f12" />
+  </action>
+  <action id="Rerun" />
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="hg4idea.QRefresh" />
+</keymap>

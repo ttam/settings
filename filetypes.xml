@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="SignStatusFilterComponent.vue" type="PLAIN_TEXT" />
+      <mapping pattern="phpstan" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
+      <mapping ext="cfm" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="asc" type="PLAIN_TEXT" />
+      <mapping ext="cfc" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
