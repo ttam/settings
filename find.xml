@@ -29,10 +29,10 @@
     <mask>staging</mask>
     <mask>*.ts</mask>
     <mask>.vue</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
+    <mask>*.js</mask>
     <mask>*</mask>
   </component>
 </application>
