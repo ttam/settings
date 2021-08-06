@@ -28,11 +28,11 @@
     <mask>staging</mask>
     <mask>.vue</mask>
     <mask>*</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
+    <mask>*.js</mask>
     <mask>*.vue</mask>
   </component>
 </application>
