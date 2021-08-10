@@ -27,12 +27,12 @@
     <mask>*ts</mask>
     <mask>staging</mask>
     <mask>.vue</mask>
-    <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.scss</mask>
     <mask>*</mask>
     <mask>*.php</mask>
+    <mask>*.ts</mask>
     <mask>*.vue</mask>
   </component>
 </application>
