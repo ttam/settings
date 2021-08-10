@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -30,9 +30,9 @@
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
-    <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.vue</mask>
     <mask>*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
