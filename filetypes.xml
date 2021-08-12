@@ -8,6 +8,7 @@
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="asc" type="PLAIN_TEXT" />
+      <mapping ext="tex" type="PLAIN_TEXT" />
       <mapping ext="cfc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
