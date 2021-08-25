@@ -30,9 +30,9 @@
     <mask>*.json</mask>
     <mask>*.scss</mask>
     <mask>*.vue</mask>
-    <mask>*</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*</mask>
     <mask>*.ts</mask>
   </component>
 </application>
