@@ -28,11 +28,11 @@
     <mask>.vue</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
-    <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.vue</mask>
     <mask>*.scss</mask>
     <mask>*</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
   </component>
 </application>
