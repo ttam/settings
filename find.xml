@@ -23,7 +23,6 @@
     <mask>!*.php</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
-    <mask>*.vue</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -35,6 +34,7 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
     <mask>*</mask>
   </component>
 </application>
