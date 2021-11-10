@@ -31,10 +31,10 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.scss</mask>
     <mask>*.php</mask>
-    <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
+    <mask>*.scss</mask>
     <mask>*</mask>
   </component>
 </application>
