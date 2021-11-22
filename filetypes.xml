@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="sphp" type="AUTO_DETECTED" />
+      <mapping pattern=".env.production" type="AUTO_DETECTED" />
       <mapping ext="config" type="AUTO_DETECTED" />
       <mapping ext="class" type="AUTO_DETECTED" />
       <mapping pattern="SignStatusFilterComponent.vue" type="PLAIN_TEXT" />
