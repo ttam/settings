@@ -16,6 +16,7 @@
       <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
       <mapping ext="cfc" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>
