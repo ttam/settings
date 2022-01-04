@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.sass</mask>
     <mask>*.yml</mask>
     <mask>*.yaml</mask>
@@ -20,7 +20,6 @@
     <mask>*.sql</mask>
     <mask>*.vueg</mask>
     <mask>!*.php</mask>
-    <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -36,5 +35,6 @@
     <mask>*.vue</mask>
     <mask>*</mask>
     <mask>*.php</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
