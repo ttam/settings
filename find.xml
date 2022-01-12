@@ -30,11 +30,11 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
     <mask>*.vue</mask>
   </component>
 </application>
