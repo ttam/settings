@@ -4,6 +4,7 @@
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
       <mapping pattern="sphp" type="AUTO_DETECTED" />
       <mapping pattern=".env.staging" type="AUTO_DETECTED" />
+      <mapping pattern="_ruleset1" type="AUTO_DETECTED" />
       <mapping pattern="postdeploy" type="AUTO_DETECTED" />
       <mapping pattern=".env.production" type="AUTO_DETECTED" />
       <mapping ext="config" type="AUTO_DETECTED" />
