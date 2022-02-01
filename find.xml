@@ -20,7 +20,6 @@
     <mask>*.sql</mask>
     <mask>*.vueg</mask>
     <mask>!*.php</mask>
-    <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.php4</mask>
@@ -32,9 +31,10 @@
     <mask>*.inc</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
-    <mask>*</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*</mask>
+    <mask>*.css</mask>
     <mask>*.js</mask>
   </component>
 </application>
