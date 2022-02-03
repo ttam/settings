@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="PHP/Convert namespace to braced" />
+    <ignoreAction name="PHP/Split comma-separated values into multiple lines" />
+    <ignoreAction name="Markdown/Hide errors in code fences" />
+  </component>
+</application>
