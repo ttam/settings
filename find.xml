@@ -30,11 +30,11 @@
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
-    <mask>*.scss</mask>
     <mask>*\</mask>
     <mask>*.md</mask>
     <mask>*.php</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
     <mask>*</mask>
   </component>
 </application>
