@@ -29,11 +29,11 @@
     <mask>*.css</mask>
     <mask>*\</mask>
     <mask>*.md</mask>
-    <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*</mask>
     <mask>*.vue</mask>
+    <mask>*.ts</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
   </component>
