@@ -32,8 +32,8 @@
     <mask>*.xml</mask>
     <mask>*</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.ts</mask>
+    <mask>*.php</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
   </component>
