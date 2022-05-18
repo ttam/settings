@@ -31,10 +31,10 @@
     <mask>*.scss</mask>
     <mask>*.xml</mask>
     <mask>*</mask>
-    <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
     <mask>*.ts</mask>
   </component>
 </application>
