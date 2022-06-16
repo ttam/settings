@@ -7,7 +7,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.ini</mask>
     <mask>*.cfm</mask>
     <mask>*.cfc</mask>
@@ -34,9 +34,9 @@
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
