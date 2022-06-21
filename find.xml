@@ -34,8 +34,8 @@
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
   </component>
