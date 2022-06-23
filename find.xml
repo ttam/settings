@@ -35,8 +35,8 @@
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.css</mask>
-    <mask>*.php</mask>
     <mask>*.ts</mask>
+    <mask>*.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
