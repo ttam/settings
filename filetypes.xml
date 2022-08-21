@@ -13,7 +13,6 @@
       <mapping ext="pb" type="AUTO_DETECTED" />
       <mapping pattern="SignStatusFilterComponent.vue" type="PLAIN_TEXT" />
       <mapping pattern="phpstan" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="snapshot" type="PLAIN_TEXT" />
       <mapping ext="cfm" type="PLAIN_TEXT" />
