@@ -10,6 +10,7 @@
       <mapping ext="config" type="AUTO_DETECTED" />
       <mapping ext="class" type="AUTO_DETECTED" />
       <mapping ext="keystore" type="AUTO_DETECTED" />
+      <mapping ext="pb" type="AUTO_DETECTED" />
       <mapping pattern="SignStatusFilterComponent.vue" type="PLAIN_TEXT" />
       <mapping pattern="phpstan" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
