@@ -29,12 +29,12 @@
     <mask>*.md</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.php</mask>
-    <mask>*.php</mask>
     <mask>*</mask>
     <mask>*.ts</mask>
+    <mask>*.js</mask>
+    <mask>*.php</mask>
+    <mask>*.php</mask>
     <mask>*.vue</mask>
   </component>
 </application>
