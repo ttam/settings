@@ -32,11 +32,11 @@
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.ts</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*</mask>
     <mask>*.scss</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
